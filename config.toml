@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://nix-fi.github.io"
+base_url = "https://fi.nix.ug"
 
 theme = "papermod"
 
