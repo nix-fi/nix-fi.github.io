@@ -62,10 +62,10 @@ navigation = [
 ]
 
 home_title = ""
+icon = "/favicon.png"
 
 home_content = '''
-<img src="https://github.com/NixOS/nixos-artwork/raw/refs/heads/master/logo/nix-snowflake-colours.svg" style="height: 20em;">
-
+A Nix User Group and a venue for Functional Package Management enthusiasts in Finland.
 '''
 social_icons = [
     { url = "https://matrix.to/#/%23nix-hel%3Asomeonex.net?via=someonex.net", title = "Matrix", icon = "matrix" },
