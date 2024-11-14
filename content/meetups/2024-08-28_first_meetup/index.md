@@ -30,11 +30,15 @@ It's finally happened! After an unsuccessful call in February'24[^callFebruary] 
 
 Pictures were collected during the event. Attendees were offered an opportunity to review and erase their imagery, but we could still do a better job at ensuring that all photography is taken in a consensual way, as well as at explicitly communicating how the images may be used and redistributed. In particular, since we haven't collected the consents for redistribution in advance and since we do not know every one by name, we're yet to find a way to figure which pictures we may publish in this announcement. Additionally, we've screwed our "OpSec" by transferring some of the pictures unencrypted over Telegram.
 
-![](./niklashh-1-blur-much.jpg)
+![](./niklashh-1.jpg)
+
+![](./matias-luukas-blur-1.jpg)
 
 ![](./dinner-1-blur.jpg)
 
 ![](./dinner-2-blur.jpg)
+
+![](./dinner-3-blur.jpg)
 
 ![](./catering-1.jpg)
 
